@@ -1,4 +1,7 @@
+Commonjs compatible fork of https://github.com/sindresorhus/quick-lru
+
 # quick-lru [![Coverage Status](https://codecov.io/gh/sindresorhus/quick-lru/branch/main/graph/badge.svg)](https://codecov.io/gh/sindresorhus/quick-lru/branch/main)
+
 
 > Simple [“Least Recently Used” (LRU) cache](https://en.m.wikipedia.org/wiki/Cache_replacement_policies#Least_Recently_Used_.28LRU.29)
 

@@ -1,5 +1,7 @@
 Commonjs compatible fork of https://github.com/sindresorhus/quick-lru
 
+e.g. to build for node 14, switch to node 14 and run `npm run build`.
+
 # quick-lru [![Coverage Status](https://codecov.io/gh/sindresorhus/quick-lru/branch/main/graph/badge.svg)](https://codecov.io/gh/sindresorhus/quick-lru/branch/main)
 
 

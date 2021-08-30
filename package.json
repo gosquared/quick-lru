@@ -10,9 +10,6 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "https://sindresorhus.com"
 	},
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/"
-	},
 	"exports": "./dist/index.js",
 	"engines": {
 		"node": ">=12"
